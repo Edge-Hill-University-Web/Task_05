@@ -13,6 +13,6 @@ Do not Modify anything in the tests directory. You are to create the minimal abo
 There are a total of 20 tests: 
 - [7] Acceptance Tests
 - [7] Functional Tests
-- [6] unit tests)
+- [6] Unit Tests
 
 Successfullly passing a test is worth 1 mark.
